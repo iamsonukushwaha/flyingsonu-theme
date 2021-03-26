@@ -1,9 +1,12 @@
-# Flyingsonu Dark Theme
+# flyingsonu dark theme
+
+I have made this **[VS Code theme](https://marketplace.visualstudio.com/items?itemName=flyingsonu.flyingsonu-dark)** for myself, if you like it please **[install](https://marketplace.visualstudio.com/items?itemName=flyingsonu.flyingsonu-dark)** and use it
+
 
 <br><br><br>
 
 
-**MIT &copy; [Sonu kumar kushwaha](https://github.com/flyingsonu122)**
+**LICENSE &copy; [Sonu kumar kushwaha](https://github.com/flyingsonu122)**
 
 ## Thanks!
 
