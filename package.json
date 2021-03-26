@@ -1,0 +1,32 @@
+{
+    "name": "flyingsonu-dark",
+    "displayName": "flyingsonu dark",
+    "description": "flyingsonu theme!",
+    "version": "0.0.1",
+    "publisher": "flyingsonu",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/flyingsonu122/flyingsonu-theme"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "flyingsonu",
+        "flyingsonu122"
+    ],
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "flyingsonu dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/flyingsonu dark-color-theme.json"
+            }
+        ]
+    }
+}
