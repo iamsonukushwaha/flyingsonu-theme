@@ -1,8 +1,8 @@
 {
     "name": "flyingsonu-dark",
-    "displayName": "flyingsonu dark",
-    "description": "flyingsonu theme!",
-    "version": "0.0.2",
+    "displayName": "flyingsonu dark theme",
+    "description": "The VS Code theme that I use!",
+    "version": "0.0.3",
     "author": "Sonu kumar kushwaha <flyingsonu736@gmail.com>",
     "publisher": "flyingsonu",
     "repository": {
@@ -12,7 +12,7 @@
     "keywords": [
         "theme",
         "dark theme",
-        "flyingsonu",
+        "color-theme",
         "flyingsonu122"
     ],
     "engines": {

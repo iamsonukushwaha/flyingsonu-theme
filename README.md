@@ -1,16 +1,18 @@
 # flyingsonu dark theme
 
+<br>
+
+<a href="https://github.com/flyingsonu122/flyingsonu-theme/blob/main/LICENSE"><img src="https://img.shields.io/github/license/flyingsonu122/flyingsonu-theme.svg?style=social&logo=github&label=License" alt="License"></a>  <a href="https://marketplace.visualstudio.com/items?itemName=flyingsonu.flyingsonu-dark"><img src="https://img.shields.io/visual-studio-marketplace/v/flyingsonu.flyingsonu-dark?label=Visual%20Studio%20Marketplace&logo=Visual%20Studio%20Code&style=social" alt="flyingsonu.flyingsonu-dark"></a>
+
+<br>
+
 I have made this **[VS Code theme](https://marketplace.visualstudio.com/items?itemName=flyingsonu.flyingsonu-dark)** for myself, if you like it please **[install](https://marketplace.visualstudio.com/items?itemName=flyingsonu.flyingsonu-dark)** and use it
 
-
-<br><br><br>
-
-
-**LICENSE &copy; [Sonu kumar kushwaha](https://github.com/flyingsonu122)**
+<br><br>
 
 ## Thanks!
 
-Thank you for being here! You can find my other projects **[here](https://github.com/flyingsonu122?tab=repositories)**.
+Thank you for being here! You can find my other projects **[here](https://github.com/flyingsonu122?tab=repositories)**
  
 
 <br><br>
@@ -21,7 +23,6 @@ Thank you for being here! You can find my other projects **[here](https://github
 	<a href="https://www.linkedin.com/in/sonukumarkushwaha/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	<a href="https://www.facebook.com/sonukumarkushwaha736"><img src="https://img.shields.io/badge/Facebook--_.svg?style=social&logo=facebook" alt="Facebook"></a>
 	<a href="https://www.instagram.com/flyingsonu736/"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a>
-	<a href="https://medium.com/@sonukumarkushwaha"><img src="https://img.shields.io/badge/Medium--_.svg?style=social&logo=medium" alt="Medium"></a>
 	<a href="https://www.youtube.com/channel/UCugIYeIc-HzCp-SZxRwuQbA"><img src="https://img.shields.io/badge/YouTube--_.svg?style=social&logo=YouTube" alt="YouTube"></a>
 	<a href="https://twitter.com/sonukumarkush12"><img src="https://img.shields.io/twitter/follow/sonukumarkush12?label=Follow&style=social" alt="Twitter"></a>
 	
