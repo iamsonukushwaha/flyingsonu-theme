@@ -36,7 +36,12 @@ I have made this **[VS Code theme](https://marketplace.visualstudio.com/items?it
 
 <br><br>
 
-## Thanks!
+**MIT &copy; [Sonu Kumar Kushwaha](https://github.com/flyingsonu122)**
+
+**Thanks!**
+
+
+
 
 Thank you for being here! You can find my other projects **[here](https://github.com/flyingsonu122?tab=repositories)**
  
