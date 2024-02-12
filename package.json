@@ -2,18 +2,18 @@
     "name": "flyingsonu-dark",
     "displayName": "flyingsonu dark theme",
     "description": "The VS Code theme that I use!",
-    "version": "0.0.4",
-    "author": "Sonu kumar kushwaha <flyingsonu736@gmail.com>",
+    "version": "0.0.5",
+    "author": "Sonu Kumar Kushwaha <flyingsonu736@gmail.com>",
     "publisher": "flyingsonu",
     "repository": {
         "type": "git",
-        "url": "https://github.com/flyingsonu122/flyingsonu-theme"
+        "url": "https://github.com/iamsonukushwaha/flyingsonu-theme"
     },
     "keywords": [
         "theme",
         "dark theme",
         "color-theme",
-        "flyingsonu122"
+        "iamsonukushwaha"
     ],
     "engines": {
         "vscode": "^1.46.0"
@@ -24,7 +24,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "flyingsonu dark",
+                "label": "iamsonukushwaha theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/flyingsonu color-theme.json"
             }
